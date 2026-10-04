@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laptop Lenovo IdeaPad 3",
+        "descripcion": "Computador portátil para estudio y trabajo",
+        "precio": 1899000,
+        "categoria": "Computadores",
+        "marca": "Lenovo",
+        "stock": 10,
+        "especificaciones": {
+            "procesador": "Intel Core i5",
+            "ram": "8 GB",
+            "almacenamiento": "512 GB SSD",
+            "pantalla": "15.6 pulgadas"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Samsung Galaxy A55",
+        "descripcion": "Smartphone Android con pantalla AMOLED",
+        "precio": 1599900,
+        "categoria": "Celulares",
+        "marca": "Samsung",
+        "stock": 15,
+        "especificaciones": {
+            "almacenamiento": "256 GB",
+            "ram": "8 GB",
+            "color": "Azul"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Mouse Logitech G203",
+        "descripcion": "Mouse gaming con iluminación RGB",
+        "precio": 129900,
+        "categoria": "Accesorios",
+        "marca": "Logitech",
+        "stock": 25,
+        "especificaciones": {
+            "conexion": "USB",
+            "dpi": "8000",
+            "color": "Negro"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Monitor LG UltraGear",
+        "descripcion": "Monitor gaming Full HD de alta frecuencia de actualización",
+        "precio": 899900,
+        "categoria": "Monitores",
+        "marca": "LG",
+        "stock": 8,
+        "especificaciones": {
+            "pantalla": "24 pulgadas",
+            "resolucion": "1920x1080",
+            "frecuencia": "144 Hz"
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Teclado Redragon Kumara",
+        "descripcion": "Teclado mecánico compacto con iluminación RGB",
+        "precio": 219900,
+        "categoria": "Accesorios",
+        "marca": "Redragon",
+        "stock": 20,
+        "especificaciones": {
+            "tipo": "Mecánico",
+            "conexion": "USB",
+            "color": "Negro"
+        }
+    }
+]
